@@ -7,7 +7,7 @@ package com.ift.cap10.bean;
 public class Calculator {
 
     public int div(int i, int j) {
-        System.out.println("--------------------");
+        System.out.println("执行div--------------------");
         return i / j;
     }
 }

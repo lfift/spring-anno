@@ -16,7 +16,6 @@ public class Cap10MainConfig {
 
     @Bean
     public Calculator calculator() {
-
         return new Calculator();
     }
 
